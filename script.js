@@ -20,7 +20,7 @@ class Dog extends Animal {
 }
 
 class Cat extends Animal {
-	pur() {
+	purr() {
 		console.log("purr");
 	}
 }
